@@ -1,0 +1,24 @@
+www.atlassian.com,gitlab.com,duolingo.com,opera.com,gemini.google.com,one.google.com,key.vlesvpn.ru,
+nvidia.com,accounts.ea.com,signin.ea.com,
+ea.com,www.origin.com,ealockbox.akamaized.net,eaavatarservice.akamaized.net,wikifeet.com,149.154.167.41,
+149.154.167.50,149.154.167.41,149.154.167.50,149.154.175.100,149.154.175.100,www.showcamrips.com,
+eaaccounts.akamaized.net,
+www.googletagmanager.com,pc.ea.com,ealockbox.akamaized.net contest.com	      
+fragment.com	     
+graph.org	        
+t.me	  
+tdesktop.com telega.one
+telegra.ph
+telegram-cdn.org
+telegram.dog
+telegram.me
+telegram.org
+telegram.space
+telesco.pe
+tg.dev
+tx.me
+usercontent.dev
+graph.facebook.com
+whatsapp.biz
+whatsapp.com
+whatsapp.net
